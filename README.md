@@ -1,12 +1,4 @@
-
-
-<h3 align="center">
-Frontend Developer | Estudiante de Ingeniería de Software con IA
-</h3>
-
-<p align="center">
-💻 Construyendo experiencias web modernas con Next.js y TypeScript
-</p>
+<img src="https://github.com/user-attachments/assets/c048e182-9d41-4f93-a21c-abf070a65793" alt="Banner.png" width="100%" height="793" />
 
 ## 👨‍💻 Sobre mí
 
@@ -24,13 +16,57 @@ Frontend Developer | Estudiante de Ingeniería de Software con IA
 
 📌 Proyecto: Aurora Post
 
-- Desarrollo de interfaces modernas y responsivas.
-- Implementación de sistemas de cupones y descuentos.
-- Creación de componentes reutilizables.
-- Optimización de experiencia de usuario.
-- Trabajo colaborativo usando Git y GitHub.
+•Desarrollo de interfaces para personalización de productos.
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+•Implementación de stepper de progreso y acordeones dinámicos.
+
+•Desarrollo de paneles de resumen en tiempo real.
+
+•Implementación de sistema de cupones y descuentos.
+
+•Aplicación de lógica de validación y selección de promociones.
+
+•Creación de componentes reutilizables.
+
+•Desarrollo de interfaces responsive para escritorio y dispositivos móviles.
+
+•Refactorización de módulos críticos enfocados en UI y experiencia de usuario.
+
+•Trabajo colaborativo utilizando Git y GitHub.
+
+## 🚀 Proyectos Relevantes
+
+🏥 CodectaMedic
+
+Sistema de gestión médica orientado a la administración de pacientes, citas y procesos clínicos.
+
+Tecnologías utilizadas:
+
+•Next.js
+
+•React
+
+•TypeScript
+
+•Tailwind CSS
+
+•Shadcn UI
+
+🌐 Aurora Post
+
+Plataforma empresarial enfocada en personalización de productos y experiencia de compra.
+
+Participación:
+
+•Desarrollo Frontend
+
+•Componentes reutilizables
+
+•Responsive Design
+
+•Integración de lógica de negocio
+
+## 🛠️ Technologies & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
@@ -44,30 +80,22 @@ Frontend Developer | Estudiante de Ingeniería de Software con IA
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-## 🚀 Proyecto Destacado
 
-### 🏥 CodectaMedic
 
-Sistema web enfocado en la gestión médica desarrollado utilizando tecnologías modernas del ecosistema React.
-
-Tecnologías:
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Shadcn UI
-
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Estado
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyreTicona&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AyreTicona&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyreTicona&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<h2 align="center">📫 Connect With Me</h2>
+
+
+## 📫 Contactos
 
 <p align="center">
 <a href="">
@@ -81,4 +109,9 @@ Tecnologías:
 <a href="https://github.com/AyreTicona">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
+<a href="https://www.linkedin.com/in/miguel-angel-andres-ayre-ticona-661548352/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
 </p>
