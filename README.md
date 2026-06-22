@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/c048e182-9d41-4f93-a21c-abf070a65793" alt="Banner.png" width="100%" height="793" />
+<img src="https://github.com/user-attachments/assets/c048e182-9d41-4f93-a21c-abf070a65793" alt="Banner.png" width="100%" height="auto" />
 
 ## 👨‍💻 Sobre mí
 
@@ -52,7 +52,7 @@
 
 • Trabajo colaborativo utilizando Git y GitHub.
 
-### 🚀 Proyectos Relevantes
+## 🚀 Proyectos Relevantes
 
 🏥 CodectaMedic | J&P Periféricos S.A.C.
 
@@ -82,39 +82,59 @@ Participación:
 
 • Optimización de experiencia de usuario y diseño responsive.
 
-## 🛠️ Technologies & Tools
+## 🚀 Tech Stack
+
+### 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" alt="shadcn/ui" />
 </p>
+
+### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,java,mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
+
+### 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
+### 🛠️ Development Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=npm" />
+</p>
 
 ## 📊 GitHub Estado
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AyreTicona&show_icons=true&theme=tokyonight" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AyreTicona&theme=tokyonight" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyreTicona&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-
 
 ## 📫 Contactos
 
 <p align="center">
-<a href="">
+<a href="https://discord.com/users/1395764905851879566">
 <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
