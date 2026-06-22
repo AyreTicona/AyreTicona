@@ -33,38 +33,54 @@
 •Refactorización de módulos críticos enfocados en UI y experiencia de usuario.
 
 •Trabajo colaborativo utilizando Git y GitHub.
+#
+📌 Proyecto: ERP Empresoft
 
-## 🚀 Proyectos Relevantes
+• Desarrollo de módulos administrativos para la gestión interna de la empresa.
 
-🏥 CodectaMedic
+• Implementación de formularios, validaciones y flujos de negocio.
+
+• Desarrollo de dashboards y paneles de control.
+
+• Integración de autenticación y gestión de usuarios.
+
+• Creación de componentes reutilizables y escalables.
+
+• Optimización de interfaces para mejorar la productividad de los usuarios.
+
+• Participación en mantenimiento, mejora continua y corrección de incidencias.
+
+• Trabajo colaborativo utilizando Git y GitHub.
+
+### 🚀 Proyectos Relevantes
+
+🏥 CodectaMedic | J&P Periféricos S.A.C.
 
 Sistema de gestión médica orientado a la administración de pacientes, citas y procesos clínicos.
 
 Tecnologías utilizadas:
 
-•Next.js
+• Next.js
 
-•React
+• React
 
-•TypeScript
+• TypeScript
 
-•Tailwind CSS
+• Tailwind CSS
 
-•Shadcn UI
-
-🌐 Aurora Post
-
-Plataforma empresarial enfocada en personalización de productos y experiencia de compra.
+• Shadcn UI
 
 Participación:
 
-•Desarrollo Frontend
+• Desarrollo de módulos para gestión de pacientes y citas.
 
-•Componentes reutilizables
+• Creación de interfaces modernas y componentes reutilizables.
 
-•Responsive Design
+• Implementación de formularios y validaciones.
 
-•Integración de lógica de negocio
+• Desarrollo de navegación y flujos administrativos.
+
+• Optimización de experiencia de usuario y diseño responsive.
 
 ## 🛠️ Technologies & Tools
 
