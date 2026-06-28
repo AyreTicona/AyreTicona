@@ -16,41 +16,31 @@
 
 📌 Proyecto: Aurora Post
 
-•Desarrollo de interfaces para personalización de productos.
+Plataforma web orientada a la personalización y compra de productos.
 
-•Implementación de stepper de progreso y acordeones dinámicos.
+Funciones principales:
 
-•Desarrollo de paneles de resumen en tiempo real.
+• Desarrollo de interfaces dinámicas e intuitivas.
 
-•Implementación de sistema de cupones y descuentos.
+• Implementación de promociones, descuentos y cupones.
 
-•Aplicación de lógica de validación y selección de promociones.
+• Optimización del diseño responsive y experiencia de usuario.
 
-•Creación de componentes reutilizables.
+• Control de versiones mediante Git y GitHub.
 
-•Desarrollo de interfaces responsive para escritorio y dispositivos móviles.
-
-•Refactorización de módulos críticos enfocados en UI y experiencia de usuario.
-
-•Trabajo colaborativo utilizando Git y GitHub.
-#
 📌 Proyecto: ERP Empresoft
 
-• Desarrollo de módulos administrativos para la gestión interna de la empresa.
+Sistema ERP destinado a la administración y gestión de procesos empresariales.
 
-• Implementación de formularios, validaciones y flujos de negocio.
+• Desarrollo de módulos para la gestión administrativa.
 
-• Desarrollo de dashboards y paneles de control.
+• Implementación de formularios, validaciones, autenticaciones y flujos de negocio.
 
-• Integración de autenticación y gestión de usuarios.
+• Creación de dashboards e interfaces de gestión.
 
-• Creación de componentes reutilizables y escalables.
+• Optimización del rendimiento y mantenimiento del sistema.
 
-• Optimización de interfaces para mejorar la productividad de los usuarios.
-
-• Participación en mantenimiento, mejora continua y corrección de incidencias.
-
-• Trabajo colaborativo utilizando Git y GitHub.
+• Participación en el desarrollo colaborativo del proyecto.
 
 ## 🚀 Proyectos Relevantes
 
@@ -58,7 +48,7 @@
 
 Sistema de gestión médica orientado a la administración de pacientes, citas y procesos clínicos.
 
-Tecnologías utilizadas:
+Tecnologías:
 
 • Next.js
 
@@ -70,17 +60,15 @@ Tecnologías utilizadas:
 
 • Shadcn UI
 
-Participación:
+Contribuciones:
 
-• Desarrollo de módulos para gestión de pacientes y citas.
+• Desarrollo de módulos funcionales para pacientes y citas.
 
-• Creación de interfaces modernas y componentes reutilizables.
+• Diseño de interfaces modernas y reutilizables.
 
-• Implementación de formularios y validaciones.
+• Integración de formularios y validaciones.
 
-• Desarrollo de navegación y flujos administrativos.
-
-• Optimización de experiencia de usuario y diseño responsive.
+• Mejora de la navegación y adaptación a dispositivos móviles.
 
 ## 🚀 Tech Stack
 
@@ -149,5 +137,4 @@ Participación:
 <a href="https://www.linkedin.com/in/miguel-angel-andres-ayre-ticona-661548352/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
 </p>
